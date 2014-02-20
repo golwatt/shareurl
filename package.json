@@ -1,0 +1,36 @@
+{
+  "name": "shareurl",
+  "version": "0.0.1",
+  "description": "share url address between different browsers on different devices",
+  "keywords": [
+    "OpenShift",
+    "Node.js",
+    "application",
+    "openshift",
+    "shareurl"
+  ],
+  "author": {
+    "name": "golwatt",
+    "email": "golwatt@163.com",
+    "url": "https://github.com/golwatt"
+  },
+  "homepage": "hhttps://github.com/golwatt/shareurl",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/golwatt/shareurl.git"
+  },
+
+  "engines": {
+    "node": ">= 0.6.0",
+    "npm": ">= 1.0.0"
+  },
+
+  "dependencies": {
+    "restify": "2.6.1"
+  },
+  "devDependencies": {},
+  "bundleDependencies": [],
+
+  "private": true,
+  "main": "app.js"
+}

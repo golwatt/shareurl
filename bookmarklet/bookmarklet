@@ -1,0 +1,1 @@
+javascript:(function(){var d=document,z=d.createElement('scr'+'ipt'),b=d.body,l=d.location;if(!l){alert('URL invalid');return;}z.setAttribute('src','https://raw2.github.com/golwatt/shareurl/master/bookmarklet/shareurl.js');d.getElementsByTagName('head')[0].appendChild(z);})();void(0)
